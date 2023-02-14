@@ -1,11 +1,11 @@
-#Project PassGen
+# Project PassGen
 
 Project PassGen is a pure C Language program capable of generating a unique password everytime it is executed.
 
 This was my first university project that i worked on as a team, i did have plans to keep updating it
 like i did before adding it to repository, if i do i get extra time i might tweak some changes or add features.
 
-##Project PassGen functions
+## Project PassGen functions
 
 Currently the program can  
 1. Generate a passowrd using a number generated through seeding and save it in a .txt file (in hexa form)
