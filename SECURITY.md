@@ -8,6 +8,6 @@ However, The **.c** file can work on any IDE that supports C Language, but I've 
 
 ## Reporting a Vulnerability
 
-- To report any errors or Vulnerability you can DM me on [my instagram](https://www.instagram.com/furqan_hi_hun)
+- To report any errors or Vulnerability you can DM me on discord: `@furqanhun`
 
 *If i get free time i  might fix bugs and stuff ;)*
